@@ -5,7 +5,6 @@ import java.util.List;
 
 public class MergeSort<T extends Comparable> implements SortingAlgorithm<T> {
 
-    //TODO: Implement merge sort here
     public List<T> sort(List<T> input) {
 		List<T> sorted = new ArrayList<>(input);
 		sorted = sortSublist(sorted);

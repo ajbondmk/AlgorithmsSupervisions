@@ -3,7 +3,7 @@ package uk.ac.cam.ajb327.algorithms.sup1;
 import java.util.List;
 import java.util.ArrayList;
 
-public class MyTest {
+public class MyTestDouble {
 
 	public static void main (String[] args) {
 
